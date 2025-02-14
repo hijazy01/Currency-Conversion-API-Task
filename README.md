@@ -16,7 +16,7 @@ This is a simple **Currency Conversion API** built with Node.js and Express. It 
 
 ## Installation & Setup
 ### 1️⃣ Clone the repository
-
+https://github.com/hijazy01/Currency-Conversion-API-Task.git
 cd index.js
 
 ## Run the server
